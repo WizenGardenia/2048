@@ -1,0 +1,13 @@
+﻿  2048Dlg.cpp
+2048Dlg.cpp(50): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+2048Dlg.cpp(358): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+2048Dlg.cpp(719): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+2048Dlg.cpp(724): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+2048Dlg.cpp(728): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码
+  1 of 337 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  2048.vcxproj -> C:\Users\dcf\Desktop\application\C++\2048\Release\2048.exe
+  2048.vcxproj -> C:\Users\dcf\Desktop\application\C++\2048\Release\2048.pdb (Full PDB)
